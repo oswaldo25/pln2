@@ -5,6 +5,7 @@ palabra = input("Escribe la palabra a buscar en el documento: ")
 palabra1="acuerdo"
 palabra2="RESOLUCIÃ“N"
 '''
+print("------------------------------------------------------------")
 with open(carpeta_nombre+archivo_nombre,"r") as archivo:
 	texto=archivo.read()
 
