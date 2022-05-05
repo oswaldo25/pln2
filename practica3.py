@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
+oswaldo
 El ejercicio consiste en en:
 - Contar las lÃ­neas que tiene un archivo y mostrar el nÃºmero junto a cada lÃ­nea
 - Mostrar el contenido de cada lÃ­nea, y en caso de que estÃ© vacÃ­a, indicar en pantalla que la lÃ­nea esta vacÃ­a.
