@@ -11,7 +11,7 @@ archivo_nombre="acuerdo.txt"
 with open(carpeta_nombre+archivo_nombre,"r") as archivo:
 	lineas_lista=archivo.readlines()
 
-palabra = input("Escribe la palabra a buscar en el documento: ") 
+palabra = input("Escribe la palabra a buscar en el archivo: ") 
 num_palabras=0
 num_linea=1
 num_texto=0
