@@ -1,0 +1,21 @@
+'''
+Oscar Dalí Nattaniel Romero Raygoza    6°B    ICI
+'''
+
+import nltk
+from nltk import word_tokenize
+
+from urllib import request
+
+url = "https://daliromero.github.io/PLN/index.md"
+response = request.urlopen(url)
+raw = response.read().decode('utf8')
+
+tokens = word_tokenize(raw)
+print(type(tokens))
+print(len(tokens))
+print(tokens[:15])
+
+text = nltk.Text(tokens)
+text.findall("<PNL>(<.*>)")
+text.concordance("PNL")
