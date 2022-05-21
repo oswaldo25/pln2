@@ -1,3 +1,7 @@
+'''Programa github web'''
+'''Axel Hervey Cruz Baez'''
+'''Oswaldo Carrillo Zepeda'''
+
 import nltk
 from nltk import word_tokenize
 
