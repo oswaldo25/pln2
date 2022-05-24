@@ -1,0 +1,57 @@
+Los artículos científicos son publicados en revistas especializadas en diferentes áreas de conocimiento. El objetivo de estas revistas es permitir a los investigadores la difusión del conocimiento(bajo un costo) que han generado tras realizar sus estudios y experimentos para que otros investigadores lo conozcan. De no existir estos artículos, varios investigadores de una misma disciplina, podrían trabajar sobre el mismo experimento sin saberlo, invirtiendo tiempo, dinero y esfuerzo en repetir un mismo estudio.
+Es por esto que a nosotros se nos ocurrió la idea de hacer una “Biblioteca virtual prohibida “con la idea de generar conciencia sobre como se maneja el negocio de estos artículos y para que los estudiantes de profesional o media superior que requieran tener acceso a estos artículos puedan contar con un acceso gratuito a los libros o artículos científicos de paga. Estos artículos generan una exagerada ganancia que ni siquiera se reparte a los científicos que fueron los creadores de esos documentos, son las editoriales las que se encargan de llenarse los bolsillos con millones de dólares en ganancias y les dan unos pocos dólares por articulo a estos científicos.
+Nosotros proponemos una red de servidores alojados en distintas partes del mundo para que las editoriales no puedan evitar la difusión de estos articulo cuyas ganancias para ellos seria nulas, las personas que financiarían este proyecto seria organizaciones en pro del conocimiento científico y de la libre circulación de estos artículos.
+
+
+
+
+
+
+
+
+
+
+Justificacion
+
+Este servidor nos permitirá que los archivos de estos equipos de cómputo sea exclusivo para almacenar la información de yodos los usuarios y además en el grupo de la empresa, tiene la ventaja de que se tiene acceso controlado a los recursos por medio de contraseñas, para mantener la privacidad de dichos archivos deseados, pero también con la posibilidad de compartir recursos entre varios usuarios o tener un repositorio público de archivos en donde todos puedan almacenar información, todo depende de las necesidades, una de las mayores ventajas de tener este servidor de archivos, es que toda la información importante puede quedar centralizada en un solo lugar, lo cual facilita la administración y el respaldo de la información.
+Nosotros queremos crear una biblioteca virtual por esto objetivos:
+1-	Situar en un contexto virtual los servicios bibliotecarios de la biblioteca
+pública.
+2-	Proporcionar información y servicios virtuales que se adapten a las
+necesidades formativas, informativas y de ocio de los diferentes tipos de
+usuarios.
+3-	Ofrecer espacios para los usuarios, de manera que puedan diseñar “su
+biblioteca” a partir de los recursos e informaciones que presentan estos
+portales.
+4-	Potenciar el fomento de la lectura.
+5-	Promover la participación de los usuarios con servicios personalizados con la voluntad de construir una comunidad de usuarios donde éstos encuentren un espacio de comunicación y participación que potencie el intercambio de ideas.
+Los servicios de la Biblioteca Virtual se centran en diferentes canales de información en función del uso y el interés de los usuarios: 
+La Biblioteca Virtual dispone de una estantería virtual que aglutina recursos digitales, servicios y actividades de las bibliotecas organizadas según los intereses temáticos de los usuarios. Los estantes virtuales nos permiten:
+- Difundir los recursos, servicios y actividades de la RBM de acuerdo una organización temática. 
+- Producir nuevos contenidos 
+- Crear un espacio de participación y comunicación con los usuarios. Inicialmente se han publicado: Cine, Cómics, Cocina y Vinos, Energía sostenible; y está previsto que vayan creciendo posteriormente.
+Desarrollo
+Una biblioteca o colección digital puede ser simplemente un listado de obras agrupadas en una página web siguiendo algún orden simple, por ejemplo el alfabético, como en el caso de la biblioteca de cultura digital que tenemos en Ártica (Actualización: el 20/1/2017 lanzamos la nueva biblioteca digital de Ártica, basada en el software Omeka, que permite realizar búsquedas y navegar las obras de manera integral). Pero cuando la biblioteca crece por encima de determinado umbral, que se encuentra en los cientos de ítems, un simple listado ya deja de satisfacer las necesidades de los usuarios a la hora de encontrar obras de su interés, y asimismo se vuelve muy difícil de gestionar.
+Las colecciones digitales voluminosas se gestionan mediante sistemas informáticos denominados «repositorios digitales» que permiten almacenar, ordenar, catalogar, poner a disposición del público y encontrar los objetos digitales. Mediante este sistema, los archivos digitales se cargan desde una interfaz web una única vez, son adjudicados a colecciones, se les agrega la información y los metadatos correspondientes y se publican. Así, cada obra tendrá una única URL. Asimismo, la obra quedará asociada a distintas categorías de información, como autor, año, género, colección, etc. Los repositorios por lo general incorporan uno o más sistemas estándar para asignar metadatos (como por ejemplo Dublin Core), por lo que no hace falta crear desde cero un sistema de catalogación propio.
+Software libre para gestionar colecciones
+En la actualidad existen muchas opciones de software para crear repositorios y gestionar colecciones. Nuestra recomendación es elegir software libre, dado que nos brinda autonomía, es más estable y más económico: evitaremos la dependencia de licencias onerosas así como de los términos y condiciones de servicios online de terceros. Para implementar el software, es necesario contar con un servidor web en donde podamos instalar el repositorio y gestionar todos los recursos, tal como se hace con cualquier sitio web. Si es posible, lo ideal es que el servidor web que aloja el repositorio esté en territorio nacional o en la ubicación geográfica más cercana a la mayoría de los usuarios, para que el acceso sea lo más ágil posible. Contar con los servidores del repositorio en territorio nacional brinda también seguridad jurídica, dado que asegura que la información guardada allí quedará sujeta a la legislación del país en el que reside la institución o persona.
+Para construir el repositorio se puede optar a grandes rasgos entre:
+•	Utilizar un sistema de gestión de contenidos web genérico como, como WordPress o Drupal, que proveen las herramientas básicas de almacenamiento de archivos, gestión de contenidos, búsquedas, etc. La ventaja es que son programas ampliamente usados, con millones de instalaciones en todo el mundo, comunidades que brindan soporte y actualizaciones permanentes. La desventaja es que no están diseñados específicamente para repositorios, y por lo tanto para algunas funciones avanzadas hay que agregar y configurar extensiones que no vienen por defecto, para lo cual hay que contar con conocimientos técnicos.
+•	Utilizar un sistema de gestión específico para repositorios digitales, como Omeka o DSpace. Estas herramientas ya vienen preparadas con todas las funciones para cargar, catalogar y visualizar colecciones digitales.
+Repositorios adicionales
+Más allá de tomar la decisión de crear un repositorio digital propio, es recomendable cargar también las obras en los principales repositorios web de referencia. Son los sitios en los que los usuarios entran habitualmente a hacer búsquedas y explorar contenidos, por lo que servirán como una “vidriera” y puerta de entrada a nuestras colecciones.
+Estamos hablando de un rango amplio de sitios, desde los servicios online de empresas privadas, como Flickr (fotografías), SoundCloud (audios), YouTube y Vimeo (videos) hasta proyectos de patrimonio digital sin fines de lucro, como Internet Archive, Wikimedia Commons o Wikisource.
+Como mínimo, recomendamos abrir una cuenta en Internet Archive , que permite subir todo tipo de archivos, sin límites de tamaño y cantidad, así como crear una ficha muy completa para cada obra. Es una herramienta que toma en cuenta las necesidades de almacenamiento y puesta a disposición del patrimonio de archivos y bibliotecas. Es una iniciativa sin fines de lucro, no presenta publicidad en su sitio y no le exige al usuario loguearse para poder acceder y descargar las obras. Es necesario recordar, eso sí, que Internet Archive solamente admite obras en dominio público, bajo licencias Creative Commons o de las cuales se cuente con autorización explícita del titular de los derechos.
+En suma, la carga de los contenidos en Internet Archive u otros repositorios adicionales será un excelente complemento para nuestro repositorio digital y nos ayudará a visibilizar nuestras colecciones.
+
+
+
+Software (OMEKA)
+
+Omeka es una plataforma de publicación web libre, flexible y de código abierto, pensada para mostrar colecciones digitales y exposiciones virtuales de bibliotecas, archivos y museos. Se trata de un proyecto del Roy Rosenzweig Center for History and New Media, responsables también del gestor bibliográfico Zotero. Omeka se encuentra liberado bajo una Licencia de software libre (GPLv3), con lo cual su distribución, uso y modificación son libres.
+
+Uno de los principales objetivos de los desarrolladores de Omeka desde los inicios del proyecto ha sido proporcionar a los diferentes perfiles profesionales que trabajan a diario con contenidos digitales de cualquier tipo, una aplicación común que les permitiera desarrollar sus propios proyectos por diferentes que fueran. Tom Scheinfeldt (2010) productor ejecutivo de Omeka, la define como una herramienta a medio camino entre un sistema de gestión de contenidos, un sistema de gestión de repositorios y un sistema de gestión de colecciones y exposiciones para museos. Según Scheinfeldt, todos estos productos presentan alguna o algunas de las funcionalidades de Omeka, pero ninguno las aúna todas. Por un lado, las aplicaciones que actualmente se utilizan para la creación de repositorios pueden ser excelentes a la hora de difundir y preservar colecciones digitales, todas trabajan con esquemas de metadatos normalizados y prestan eficaces herramientas de búsqueda, pero se muestran menos eficaces cuando se trata de crear exposiciones o de proporcionar un contexto visual y narrativo a las agrupaciones documentales que puedan albergar. Por lo que respecta a los sistemas de gestión de contenidos, se precisan arduas y costosas implementaciones para adaptar un software que no ha sido diseñado para tal propósito, siempre y cuando no nos conformemos con una aplicación sencilla con la que poder gestionar páginas y objetos digitales, sin preocuparnos por el resto de cuestiones que conlleva la gestión de un repositorio (metadatos, preservación...).
+Desventajas
+
+Antes de decidirnos por Omeka, o por cualquier otro software, es necesario realizar un análisis de requerimientos en vistas a asegurarnos de que la aplicación escogida presenta todas las funcionalidades que necesitamos. En el apartado anterior hemos resumido brevemente algunas de las características principales de Omeka, que serán ampliadas en los siguientes apartados de este manual. A continuación se exponen algunos de sus puntos débiles o aspectos, en los que es superado por otras aplicaciones disponibles en el mercado.
+
