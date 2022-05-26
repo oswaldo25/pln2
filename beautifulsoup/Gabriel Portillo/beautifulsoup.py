@@ -11,6 +11,12 @@ html = urllib.request.urlopen(url)
 
 htmlParse = BeautifulSoup(html, 'html.parser')
 
+text = htmlParse.get_text()
+tokens = word_tokenize(text)
+title = htmlParse.title
+
+print(f"Titulo: {title}")
+
 tokens = []
 for para in htmlParse.find_all("p"):
     tokens = tokens + word_tokenize(para.get_text())
