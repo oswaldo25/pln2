@@ -2,7 +2,7 @@
 """
 Created on Tue May 24 11:25:45 2022
 
-@author: luis_
+@author: luis_ 2da edicion
 """
 
 import urllib.request
@@ -16,14 +16,14 @@ html = urllib.request.urlopen(url)
 
 htmlParse = BeautifulSoup(html, 'html.parser')
 
-tokens = []
-for para in htmlParse.find_all("p"):
-    tokens = tokens + word_tokenize(para.get_text())
+text= htmlParse.get_text()
+tokens= nltk.word_tokenize(text)
+title = htmlParse.title
 
-
-print(type(tokens))
-print(len(tokens))
-print(tokens)
+print("Title: ",title,"\n")
+print("Type:",type(tokens),"\n")
+print("Total tokens: ",len(tokens),"\n")
+print(tokens[:15])
 
 text = nltk.Text(tokens)
 text.findall("<PLN>(<.*>)")
