@@ -4,7 +4,7 @@ from urllib import request, response
 from bs4 import BeautifulSoup
 from nltk.probability import FreqDist
 
-url = "https://odalys-santollo.github.io/fime/lenguaje.txt"
+url = "https://www.viewnext.com/que-es-pln-procesamiento-lenguaje-natural/"
 response = request.urlopen(url)
 contenidoPagina = BeautifulSoup(response, 'html.parser')
 
